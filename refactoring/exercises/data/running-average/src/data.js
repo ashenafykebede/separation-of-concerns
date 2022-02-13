@@ -1,1 +1,4 @@
-export const data = _;
+export const data = {
+    average: 0,
+    numbers: [],
+  };
